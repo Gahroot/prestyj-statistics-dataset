@@ -1,0 +1,15 @@
+{
+  "name": "@prestyj/statistics-dataset",
+  "version": "0.1.0",
+  "description": "Open Prestyj statistics dataset for lead response, AI sales, video advertising, and home-services benchmarks.",
+  "type": "module",
+  "files": ["README.md", "LICENSE", "CITATION.cff", "statistics.csv", "statistics.json"],
+  "keywords": ["statistics", "open-data", "marketing", "sales", "lead-response", "ai-sales", "home-services", "dataset"],
+  "author": "Prestyj <nolan@prestyj.com> (https://prestyj.com)",
+  "license": "MIT",
+  "homepage": "https://prestyj.com/data",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gahroot/prestyj-statistics-dataset.git"
+  }
+}
